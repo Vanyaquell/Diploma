@@ -1,26 +1,5 @@
-.vscode/
-docs/
+﻿.vscode/
 runtime-logs/
-ПРЕДДИПЛОМНАЯ ПРАКТИКА/
-
-/practice_report_real_estate_2026.docx
-/practice_report_real_estate_2026.pdf
-/practice_report_real_estate_2026_preview.pdf
-/practice_report_real_estate_2026_final_preview.pdf
-/practice_report_test.docx
-/TZ_diploma_real_estate.md
-/Дневник практика.docx
-/Индивидуальное задание.docx
-/Исправленная.pptx
-/Отчет_по_практике_Диплом_2026.docx
-/Презентация_предзащита (ускоренная).pptx
-/Презентация_предзащита.pptx
-/Авторизация.jpg
-/Админ-панель.jpg
-/История.jpg
-/Личный кабинет.jpg
-/Прогноз.jpg
-/Регистрация.jpg
 
 **/README*
 **/.idea/
