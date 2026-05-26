@@ -1,0 +1,29 @@
+{
+  "selected_model": "catboost",
+  "metrics_file": "C:\\Users\\i1120\\OneDrive\\Desktop\\Diploma\\ml\\artifacts\\jobs\\3388c9d5-b64e-49b5-b08c-afc498e53b0f\\artifacts\\metrics.json",
+  "model_file": "C:\\Users\\i1120\\OneDrive\\Desktop\\Diploma\\ml\\artifacts\\jobs\\3388c9d5-b64e-49b5-b08c-afc498e53b0f\\artifacts\\best_model.joblib",
+  "active_numeric_features": [
+    "total_meters",
+    "floor",
+    "floors_count",
+    "rooms_count",
+    "floor_ratio",
+    "is_top_floor",
+    "is_first_floor",
+    "room_density"
+  ],
+  "active_categorical_features": [
+    "city",
+    "city_district",
+    "district",
+    "underground",
+    "house_material_type",
+    "finish_type",
+    "object_type"
+  ],
+  "dataset_file_name": "newdataset.xlsx",
+  "dataset_version_id": "644797c8-7d7a-42eb-8ba5-14dc3224cef6",
+  "model_version": "model-20260510142632",
+  "rows_count": 2093,
+  "trained_at": "2026-05-10T14:26:32.057Z"
+}

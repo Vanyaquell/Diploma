@@ -1,0 +1,20 @@
+{
+  "cities": [
+    {
+      "name": "Казань",
+      "slug": "kazan"
+    }
+  ],
+  "room_groups": [
+    1
+  ],
+  "deal_type": "sale",
+  "with_extra_data": false,
+  "additional_settings": {
+    "start_page": 1,
+    "end_page": 1,
+    "only_flat": true
+  },
+  "proxies": [],
+  "request_timeout_seconds": 30
+}

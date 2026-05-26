@@ -1,0 +1,32 @@
+{
+  "cities": [
+    {
+      "name": "Москва",
+      "slug": "moscow"
+    },
+    {
+      "name": "Санкт-Петербург",
+      "slug": "saint_petersburg"
+    },
+    {
+      "name": "Казань",
+      "slug": "kazan"
+    },
+    {
+      "name": "Нижний Новгород",
+      "slug": "nizhny_novgorod"
+    }
+  ],
+  "room_groups": [
+    "studio"
+  ],
+  "deal_type": "sale",
+  "with_extra_data": false,
+  "additional_settings": {
+    "start_page": 1,
+    "end_page": 1,
+    "only_flat": true
+  },
+  "proxies": [],
+  "request_timeout_seconds": 30
+}

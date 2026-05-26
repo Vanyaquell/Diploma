@@ -1,0 +1,26 @@
+{
+  "cities": [
+    {
+      "name": "Москва",
+      "slug": "moscow"
+    },
+    {
+      "name": "Санкт-Петербург",
+      "slug": "saint_petersburg"
+    }
+  ],
+  "room_groups": [
+    1,
+    2,
+    3
+  ],
+  "deal_type": "sale",
+  "with_extra_data": false,
+  "additional_settings": {
+    "start_page": 2,
+    "end_page": 2,
+    "only_flat": true
+  },
+  "proxies": [],
+  "request_timeout_seconds": 30
+}

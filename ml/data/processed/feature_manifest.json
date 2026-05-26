@@ -1,0 +1,47 @@
+{
+  "target_column": "target_price",
+  "numeric_features": [
+    "total_meters",
+    "living_meters",
+    "kitchen_meters",
+    "floor",
+    "floors_count",
+    "rooms_count",
+    "year_of_construction",
+    "building_age",
+    "floor_ratio",
+    "is_top_floor",
+    "is_first_floor",
+    "room_density"
+  ],
+  "categorical_features": [
+    "city",
+    "city_district",
+    "district",
+    "underground",
+    "house_material_type",
+    "finish_type",
+    "object_type"
+  ],
+  "active_numeric_features": [
+    "total_meters",
+    "floor",
+    "floors_count",
+    "rooms_count",
+    "floor_ratio",
+    "is_top_floor",
+    "is_first_floor",
+    "room_density"
+  ],
+  "active_categorical_features": [
+    "city",
+    "city_district",
+    "district",
+    "underground",
+    "house_material_type",
+    "finish_type",
+    "object_type"
+  ],
+  "rows": 1862,
+  "reference_year": 2026
+}

@@ -1,0 +1,11 @@
+{
+  "test_size": 0.2,
+  "random_state": 42,
+  "candidate_models": [
+    "dummy",
+    "random_forest",
+    "extra_trees",
+    "catboost"
+  ],
+  "target_column": "target_price"
+}

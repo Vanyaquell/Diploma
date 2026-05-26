@@ -1,0 +1,16 @@
+feature,importance
+total_meters,41.04349471622834
+city,18.145943970805693
+district,11.017481760452895
+room_density,8.86513193229658
+floors_count,7.87108824592739
+underground,3.6936381198402115
+floor_ratio,2.6792592168384046
+city_district,2.382573193313868
+floor,1.714858689160457
+rooms_count,1.6918445250448655
+is_first_floor,0.7126233866685988
+is_top_floor,0.1820622434227936
+house_material_type,0.0
+finish_type,0.0
+object_type,0.0

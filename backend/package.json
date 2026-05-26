@@ -1,0 +1,30 @@
+{
+  "name": "real-estate-backend",
+  "version": "1.0.0",
+  "description": "Node.js backend for the diploma real estate prediction project",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js",
+    "check": "node -e \"require('./src/app'); console.log('backend-ok')\""
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "real-estate",
+    "ml"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "csv-parse": "^6.2.1",
+    "dotenv": "^17.2.3",
+    "exceljs": "^4.4.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^2.1.1",
+    "pg": "^8.20.0",
+    "zod": "^4.1.12"
+  }
+}
